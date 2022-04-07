@@ -1,0 +1,19 @@
+{
+  "name": "netflix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DEVRAJ SEN",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "cheerio": "1.0.0-rc.10",
+    "express": "4.17.1",
+    "nodemon": "2.0.7",
+    "readline": "1.3.0",
+    "request": "2.88.2"
+  }
+}
